@@ -1,6 +1,6 @@
 # 2D Brain Age Estimation and Alzheimer’s disease Classification using Deep Learning
 
-This project aims to apply brain age as a biomaker for Alzheimer's disease. Thus, a CNN for regression is employed from [@shengfly](https://github.com/shengfly/global-local-transformer) to estimate the brain age using MR images. Additionally, we use the learned feature vector from the CNN regression model to a multi-layer perceptron (MLP) model do Alzheimer’s disease diagnosis.
+This project aims to apply brain age as a biomaker for Alzheimer's disease. Thus, a transformer is from [@shengfly](https://github.com/shengfly/global-local-transformer) to estimate the brain age using MR images. Additionally, we use the learned feature vector from the transformer regression model to a multi-layer perceptron (MLP) model do Alzheimer’s disease diagnosis.
 
 
 
